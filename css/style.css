@@ -63,6 +63,7 @@ div[class*="black"]{background-color: #000000 ;}
 .onepadd{padding: 1rem;}
 .twopadd{padding: 2rem;}
 .Threepadd{padding: 3rem;}
+.sixpadd{padding: 6rem;}
 .margin6{margin-bottom: 6rem;}
 .margin3{margin-bottom: 3rem;}
 .leftalign{text-align: left;}
@@ -111,3 +112,7 @@ span .size30{text-align: right;margin: 0;}
 .dx{background-color: #10ff10;}
 
 .S-box.faq>*{margin-top: 1rem;margin-bottom: 1rem;}
+
+.footcolumn{width: 20%;color: white;}
+
+

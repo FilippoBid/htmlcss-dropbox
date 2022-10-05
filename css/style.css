@@ -117,10 +117,13 @@ span .size30{text-align: right;margin: 0;}
 .block>img{width: 60%;display: block; object-fit: scale-down;position: absolute;left: 2rem;top: 2rem;}
 .block>h3{text-align: center;}
 
-
+.outline.twopadd.leftalign>button{margin: auto;
+    width: 100%;}
 
 .m{overflow:auto;position: relative;}
 .mid.size-50>h2{font-size: 2rem;color: maroon;}
 .background.row .block>img{filter: invert(1) ;}
 .background.row .block .sideblock>img{filter: invert(1) ;}
 .background.row .block>h3{color: white;}
+
+.outline.twopadd.leftalign ul li{display: flex;align-items: baseline;}

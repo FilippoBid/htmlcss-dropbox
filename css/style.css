@@ -127,3 +127,12 @@ span .size30{text-align: right;margin: 0;}
 .background.row .block>h3{color: white;}
 
 .outline.twopadd.leftalign ul li{display: flex;align-items: baseline;}
+
+
+
+
+/* hover link*/
+
+.navmenu:hover .dropdown{display:block ;}
+.navmenu{position: relative;}
+.dropdown{display: none;position: absolute;top: 100%;left: 0; z-index: 4;padding: 1rem;background-color: #ffffff; }

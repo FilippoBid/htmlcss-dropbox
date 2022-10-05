@@ -134,5 +134,8 @@ span .size30{text-align: right;margin: 0;}
 /* hover link*/
 
 .navmenu:hover .dropdown{display:block ;}
+.navmenu2:hover .dropdown2{display:block ;}
 .navmenu{position: relative;}
+.navmenu2{position: relative;}
 .dropdown{display: none;position: absolute;top: 100%;left: 0; z-index: 4;padding: 1rem;background-color: #ffffff; }
+.dropdown2{display: none;position: absolute;top: 100%;right: 0; z-index: 4;padding: 1rem;background-color: #ffffff; }

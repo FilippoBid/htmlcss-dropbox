@@ -132,7 +132,7 @@ span .size30{text-align: right;margin: 0;}
 .center.size-40 button{background-color: transparent;border: 1px solid black;color: black;margin: 0;}
 .center.size-40{text-align: left;}
 .center.size-40 h2{font-size: 2rem;}
-.S-box.row:nth-of-type(2n){background-color:white;color: #000000;}
+.S-box.row .whitebutt > *{background-color:white;color: #000000;}
 
 /* hover link*/
 

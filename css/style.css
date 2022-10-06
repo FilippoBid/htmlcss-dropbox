@@ -66,6 +66,7 @@ div[class*="black"]{background-color: #000000 ;}
 .sixpadd{padding: 6rem;}
 .margin6{margin-bottom: 6rem;}
 .margin3{margin-bottom: 3rem;}
+.margin2{margin-bottom: 2rem;}
 .leftalign{text-align: left;}
 
 
@@ -128,8 +129,10 @@ span .size30{text-align: right;margin: 0;}
 
 .outline.twopadd.leftalign ul li{display: flex;align-items: baseline;}
 
-
-
+.center.size-40 button{background-color: transparent;border: 1px solid black;color: black;margin: 0;}
+.center.size-40{text-align: left;}
+.center.size-40 h2{font-size: 2rem;}
+.S-box.row:nth-of-type(2n){background-color:white;color: #000000;}
 
 /* hover link*/
 
